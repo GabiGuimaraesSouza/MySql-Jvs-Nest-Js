@@ -1,0 +1,2 @@
+
+    somas += salario
